@@ -6,3 +6,16 @@ li{
     color: blue;
     background-color: aqua;
 }
+
+table {
+border: 3px dotted aqua
+}
+
+th {
+    background-color: greenyellow;
+    font-size: 30 px;
+}
+
+td {
+    background-color: bisque;
+}
