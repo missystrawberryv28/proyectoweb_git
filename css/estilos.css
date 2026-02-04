@@ -12,10 +12,10 @@ border: 3px dotted aqua
 }
 
 th {
-    background-color: greenyellow;
+    background-color: rgb(255, 227, 47);
     font-size: 30 px;
 }
 
 td {
-    background-color: bisque;
+    background-color: rgb(245, 231, 187);
 }
